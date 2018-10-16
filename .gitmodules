@@ -1,3 +1,8 @@
-[submodule ".vim/colors/jellybeans"]
-	path = .vim/jellybeans
+[submodule "jellybeans"]
+	path = ./jellybeans
 	url = https://github.com/nanotech/jellybeans.vim
+
+[submodule "vim-cpp-modern"]
+    path = ./vim-cpp-modern
+    url = https://github.com/bfrg/vim-cpp-modern
+
