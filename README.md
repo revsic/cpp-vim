@@ -1,2 +1,2 @@
-# cpp-vim
-Custom cpp vim configuration
+# vim-setting
+Custom vim configuration
